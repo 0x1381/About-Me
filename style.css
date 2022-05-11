@@ -1,0 +1,17 @@
+html,
+body {
+  height: 125%;
+  width: 100%;
+  background-color: black;
+}
+
+.canvas {
+  position: absolute;
+}
+
+
+
+h1,h2,div,img,h4{ background-color:black; } 
+
+
+.h1 { color: greenyellow; }
