@@ -3,6 +3,7 @@ body {
   height: 125%;
   width: 100%;
   background-color: black;
+  background-image: url('bg.jpg');
 }
 
 .canvas {
@@ -11,7 +12,6 @@ body {
 
 
 
-h1,h2,div,img,h4{ background-color:black; } 
 
+.h1, h4{ color: greenyellow; }
 
-.h1 { color: greenyellow; }
